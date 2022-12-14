@@ -16,5 +16,7 @@ format:
     css: styles.css
     toc: true
 
+about:
+  template: trestles
 
 
