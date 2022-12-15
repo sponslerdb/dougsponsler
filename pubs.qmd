@@ -2,3 +2,56 @@
 title: "Publications"
 ---
 
+# Submitted / Pre-printed
+
+**Sponsler D**, Iverson A, Steffan-Dewenter I (2022) Pollinator competition and the structure of floral resources. Authorea Preprints.
+
+# 2022
+
+Quinlan GM, **Sponsler D**, Gaines-Day HR et al. (2022) Grassy–herbaceous land moderates regional climate effects on honey bee colonies in the Northcentral US. Environmental research letters: ERL [Web site], 17, 064036.
+
+**Sponsler D**, Kallnik K, Requier F et al. (2022a) Floral preferences of mountain bumble bees are constrained by functional traits but flexible through elevation and season. Oikos , 2022.
+
+**Sponsler DB**, Requier F, Kallnik K et al. (2022b) Contrasting patterns of richness, abundance, and turnover in mountain bumble bees and their floral hosts. Ecology, e3712.
+
+# 2021
+
+Lin C-H, **Sponsler DB**, Richardson RT et al. (2021) Honey bees and neonicotinoid-treated corn seed: Contamination, exposure, and effects. Environmental toxicology and chemistry / SETAC, 40, 1212–1221.
+
+Richardson RT, Eaton TD, Lin C-H, Cherry G, Johnson RM, **Sponsler DB** (2021) Application of plant metabarcoding to identify diverse honeybee pollen forage along an urban-agricultural gradient. Molecular ecology, 30, 310–323.
+
+**Sponsler DB**, Bratman EZ (2021) Beekeeping in, of or for the city? A socioecological perspective on urban apiculture. People and Nature.
+
+# 2020
+
+Douglas MR, **Sponsler DB**, Lonsdorf EV, Grozinger CM (2020) County-level analysis reveals a rapidly shifting landscape of insecticide hazard to honey bees (Apis mellifera) on US farmland. Scientific reports, 10, 797.
+
+**Sponsler DB**, Grozinger CM, Richardson RT et al. (2020a) A screening-level assessment of the pollinator-attractiveness of ornamental nursery stock using a honey bee foraging assay. Scientific reports, 10, 831.
+
+**Sponsler DB**, Shump D, Richardson RT, Grozinger CM (2020b) Characterizing the floral resources of a North American metropolis using a honey bee foraging assay. Ecosphere , 11.
+
+# 2019
+
+Richardson RT, Curtis HR, Matcham EG, Lin C-H, Suresh S, **Sponsler DB**, Hearon, LE, Johnson, RM (2019a) Quantitative multi-locus metabarcoding and waggle dance interpretation reveal honey bee spring foraging patterns in Midwest agroecosystems. Molecular ecology, 28, 686–697.
+
+Richardson RT, **Sponsler DB**, McMinn‐Sauder H, Johnson RM (2019b) MetaCurator: A hidden Markov model‐based toolkit for extracting and curating sequences from taxonomically‐informative genetic markers (S Jarman, Ed,). Methods in ecology and evolution / British Ecological Society, 32, 3030.
+
+**Sponsler DB**, Grozinger CM, Hitaj C et al. (2019) Pesticides and pollinators: A socioecological synthesis. The Science of the total environment.
+
+# 2017
+
+**Sponsler DB**, Johnson RM (2017a) Mechanistic modeling of pesticide exposure: The missing keystone of honey bee toxicology. Environmental toxicology and chemistry / SETAC.
+
+**Sponsler DB**, Johnson RM (2017b) Poisoning a Society: A Superorganism Perspective on Honey Bee Toxicology. Bee World, 94, 30–32.
+
+**Sponsler DB**, Matcham EG, Lin C-H, Lanterman JL, Johnson RM (2017) Spatial and taxonomic patterns of honey bee foraging: A choice test between urban and agricultural landscapes. Journal of Urban Ecology, 3.
+
+# 2016
+
+**Sponsler DB** (2016) Honey bee landscape ecology: foraging, toxic exposure, and apicultural outcomes. Ph.D. Thesis. The Ohio State University.
+
+# 2015
+
+Richardson RT, Lin C-H, **Sponsler DB** et al. (2015) Application of ITS2 Metabarcoding to Determine the Provenance of Pollen Collected by Honey Bees in an Agroecosystem. Applications in plant sciences, 3, 1400066.
+
+**Sponsler DB**, Johnson RM (2015) Honey bee success predicted by landscape composition in Ohio, USA. PeerJ, 3, e838.
