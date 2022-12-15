@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - pubs.qmd
 
 format:
   html:
@@ -19,5 +20,3 @@ format:
 about:
   template: trestles
 
-pubs:
-  template: trestles
