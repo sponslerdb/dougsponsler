@@ -4,4 +4,4 @@ image: burnet.jpg
 
 ---
 
-Ecology is the study of everything.
+Ecology is the study of everything. Really.
