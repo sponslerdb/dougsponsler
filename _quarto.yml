@@ -20,5 +20,5 @@ format:
 about:
   template: trestles
 
-pubs:
-  template: trestles
+# pubs:
+#   template: trestles
