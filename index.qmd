@@ -1,5 +1,7 @@
 ---
 title: "Douglas B. Sponsler"
+image: burnet.jpg
+
 ---
 
 Ecology is the study of everything.
