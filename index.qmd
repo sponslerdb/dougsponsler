@@ -3,15 +3,46 @@ title: "Douglas B. Sponsler"
 image: sponsler_headshot.jpg
 ---
 
-Postdoctoral Researcher
+# Education
 
-Department of Animal Ecology and Tropical Biology
+**The Ohio State University** | Columbus, Ohio, USA
 
-University of Würzburg
+Ph.D. in Entomology, 2011-2016
 
-Biozentrum C-018
+---
 
-Am Hubland
+**Cedarville University** | Cedarville, Ohio, USA
+
+BS in Biology, 2007-2010
+
+# Experience
+
+**University of Würzburg** | Postdoctoral Researcher
+
+Department of Animal Ecology and Tropical Biology, 
 
 Würzburg, Germany
+
+2020-present
+
+---
+
+**The Academy of Natural Sciences of Drexel University** | Honorary Research Associate
+
+Department of Botany
+
+Philadelphia, PA, USA
+
+2018 - 2021
+
+---
+
+**Pennsylvania State University** | Postdoctoral Fellow
+
+Department of Entomlogy
+
+University Park, PA, USA
+
+2017 - 2020
+
 

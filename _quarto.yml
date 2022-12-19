@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research.qmd
+      - teaching.qmd
       - pubs.qmd
 
 format:
@@ -19,6 +21,13 @@ format:
 
 about:
   template: trestles
-
-pubs:
-  template: jolla
+  
+# research:
+#   template: marquee
+#   
+# teaching:
+#   template: marquee
+# 
+# pubs:
+#   template: marquee
+  

@@ -1,0 +1,21 @@
+---
+title: "Research"
+about: 
+  template: marquee
+---
+
+# Urban ecology
+
+![My iNaturalist observations in Philadelphia.](iNat_GE.png)
+
+# Trophic ecology of flowers and florivores
+
+![Polyomattus butterfly visits dry flower during severe drought in central Germany.](butterfly.jpg)
+
+# Honey bee foraging behavior
+
+![Honey bees crowd feeder during experiment. The rapid recruitment of foragers is enabled by waggle- dance-mediated recruitment.](feeder_study.jpg)
+
+# Ecotoxicology
+
+![Toxic exposure in honey bee colonies is mediated by the social structure of the colony. From: Sponsler and Johnson (2017), Environmental Toxicology and Chemistry](tox.png)
