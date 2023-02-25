@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Skills"
 about: 
   template: marquee
 ---
