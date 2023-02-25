@@ -13,6 +13,8 @@ website:
       - teaching.qmd
       - pubs.qmd
       - skills.qmd
+      - videos.qmd
+      - media.qmd
 
 format:
   html:

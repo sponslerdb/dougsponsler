@@ -1,0 +1,22 @@
+---
+title: "Media"
+about: 
+  template: marquee
+---
+
+----------
+
+# Podcasts
+
+### Honey bees and pesticides
+[Oregon State University, PolliNation Podcast](https://extension.oregonstate.edu/podcast/pollination-podcast/31-doug-sponsler-risk-pesticides-honey-bees-ecotoxicology)
+
+
+# Articles
+
+### Bees and urban ecology
+[Grid Magazine](https://gridphilly.com/blog-home/2018/6/22/a-penn-state-researcher-learns-what-bees-can-teach-us-about-urban-ecology/)
+
+
+
+

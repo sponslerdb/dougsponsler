@@ -1,0 +1,21 @@
+---
+title: "Videos"
+about: 
+  template: marquee
+---
+
+----------
+
+# Pollinator competition and the structure of floral resources
+
+{{< video https://www.youtube.com/watch?v=4Qg7CIQZNBM&t=0s >}}
+
+
+# The floral resources of Philadelphia
+
+{{< video https://www.youtube.com/watch?v=JOr4rXKCRdo&t=0s >}}
+
+# Honey bee foraging in Ohio's landscapes
+
+{{< video https://www.youtube.com/watch?v=nukCD5MxwqE&t=0s >}}
+

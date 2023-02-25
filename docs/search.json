@@ -21,10 +21,87 @@
     "text": "Submitted\nSponsler DB, Iverson A, Steffan-Dewenter I (2023) Pollinator competition and the structure of floral resources. Ecography.\nBoetzl F, Sponsler DB, […] Schirmel J (2023) Distance functions of carabid richness and density in crop fields depend on functional traits, crop type and adjacent habitat: a synthesis. Nature Ecology and Evolution.\n\n\n2022\nQuinlan GM, Sponsler DB, Gaines-Day HR et al. (2022) Grassy–herbaceous land moderates regional climate effects on honey bee colonies in the Northcentral US. Environmental Research Letters, 17, 064036.\nSponsler DB, Kallnik K, Requier F et al. (2022a) Floral preferences of mountain bumble bees are constrained by functional traits but flexible through elevation and season. Oikos, 2022: e08902.\nSponsler DB, Requier F, Kallnik K et al. (2022b) Contrasting patterns of richness, abundance, and turnover in mountain bumble bees and their floral hosts. Ecology, 2022: e3712.\n\n\n2021\nLin C-H, Sponsler DB, Richardson RT et al. (2021) Honey bees and neonicotinoid-treated corn seed: Contamination, exposure, and effects. Environmental Toxicology and Chemistry, 40, 1212–1221.\nRichardson RT, Eaton TD, Lin C-H, Cherry G, Johnson RM, Sponsler DB (2021) Application of plant metabarcoding to identify diverse honeybee pollen forage along an urban-agricultural gradient. Molecular Ecology, 30, 310–323.\nSponsler DB, Bratman EZ (2021) Beekeeping in, of or for the city? A socioecological perspective on urban apiculture. People and Nature, 00:1-10.\n\n\n2020\nDouglas MR, Sponsler DB, Lonsdorf EV, Grozinger CM (2020) County-level analysis reveals a rapidly shifting landscape of insecticide hazard to honey bees (Apis mellifera) on US farmland. Scientific Reports, 10, 797.\nSponsler DB, Grozinger CM, Richardson RT et al. (2020a) A screening-level assessment of the pollinator-attractiveness of ornamental nursery stock using a honey bee foraging assay. Scientific Reports, 10, 831.\nSponsler DB, Shump D, Richardson RT, Grozinger CM (2020b) Characterizing the floral resources of a North American metropolis using a honey bee foraging assay. Ecosphere, 11, e03102.\n\n\n2019\nRichardson RT, Curtis HR, Matcham EG, Lin C-H, Suresh S, Sponsler DB, Hearon, LE, Johnson, RM (2019a) Quantitative multi-locus metabarcoding and waggle dance interpretation reveal honey bee spring foraging patterns in Midwest agroecosystems. Molecular Ecology, 28, 686–697.\nRichardson RT, Sponsler DB, McMinn‐Sauder H, Johnson RM (2019b) MetaCurator: A hidden Markov model‐based toolkit for extracting and curating sequences from taxonomically‐informative genetic markers. Methods in Ecology and Evolution, 32, 3030.\nSponsler DB, Grozinger CM, Hitaj C et al. (2019) Pesticides and pollinators: A socioecological synthesis. The Science of the Total Environment, 662, 1012-1027.\n\n\n2017\nSponsler DB, Johnson RM (2017a) Mechanistic modeling of pesticide exposure: The missing keystone of honey bee toxicology. Environmental Toxicology and Chemistry, 36, 871-881.\nSponsler DB, Johnson RM (2017b) Poisoning a Society: A Superorganism Perspective on Honey Bee Toxicology. Bee World, 94, 30–32.\nSponsler DB, Matcham EG, Lin C-H, Lanterman JL, Johnson RM (2017) Spatial and taxonomic patterns of honey bee foraging: A choice test between urban and agricultural landscapes. Journal of Urban Ecology, 2017: 1-7.\n\n\n2016\nSponsler DB (2016) Honey bee landscape ecology: foraging, toxic exposure, and apicultural outcomes. Ph.D. Thesis. The Ohio State University.\n\n\n2015\nRichardson RT, Lin C-H, Sponsler DB et al. (2015) Application of ITS2 Metabarcoding to Determine the Provenance of Pollen Collected by Honey Bees in an Agroecosystem. Applications in Plant Sciences, 3, 1400066.\nSponsler DB, Johnson RM (2015) Honey bee success predicted by landscape composition in Ohio, USA. PeerJ, 3, e838."
   },
   {
-    "objectID": "skills.html",
-    "href": "skills.html",
+    "objectID": "skills.html#bayesian-modeling",
+    "href": "skills.html#bayesian-modeling",
     "title": "Skills",
+    "section": "Bayesian modeling",
+    "text": "Bayesian modeling\nMy approach to statistics is built upon rigorous Bayesian workflow, implemented with Stan and the R package brms.\n\n\n\nPosterior predictive distributions of pollinator diversity across habitat based on a generalized (Poisson) hierarchical Bayesian linear regression model."
+  },
+  {
+    "objectID": "skills.html#causal-inference-using-directed-acyclic-graphs",
+    "href": "skills.html#causal-inference-using-directed-acyclic-graphs",
+    "title": "Skills",
+    "section": "Causal inference using directed acyclic graphs",
+    "text": "Causal inference using directed acyclic graphs\nA statistical model can only be as good as the causal model behind it. As a data analyst, I situate my statistical models within explicit causal frameworks expressed as a directed acyclic graphs (DAGs). This is especially important in observation field studies, where limited experimental control necessitates rigorous statistical control.\n\n\n\nA DAG depicting causal relations between floral resource abundance and pollinator abundance. A confounding fork structure is shown in red."
+  },
+  {
+    "objectID": "skills.html#multivariate-statistics",
+    "href": "skills.html#multivariate-statistics",
+    "title": "Skills",
+    "section": "Multivariate statistics",
+    "text": "Multivariate statistics\n\n\n\nA principal coordinates analysis with post-hoc variable mapping illustrates the relationship between bumble bee tongue length and floral preference. From Sponsler et al. 2022, Oikos."
+  },
+  {
+    "objectID": "skills.html#geographic-information-systems-gis",
+    "href": "skills.html#geographic-information-systems-gis",
+    "title": "Skills",
+    "section": "Geographic Information Systems (GIS)",
+    "text": "Geographic Information Systems (GIS)\n\n\n\nA map of my iNaturalist observations made by extracting the geographic coordinates of my observations and combining them with 3D imagery from Google Earth."
+  },
+  {
+    "objectID": "skills.html#plant-pollinator-interactions",
+    "href": "skills.html#plant-pollinator-interactions",
+    "title": "Skills",
+    "section": "Plant-pollinator interactions",
+    "text": "Plant-pollinator interactions\n\n\n\nSampling nectar from the flower of a plum tree to study floral resource depletion by pollinators."
+  },
+  {
+    "objectID": "skills.html#beekeeping",
+    "href": "skills.html#beekeeping",
+    "title": "Skills",
+    "section": "Beekeeping",
+    "text": "Beekeeping\n\n\n\nInspecting an especially gentle hive with my daughter"
+  },
+  {
+    "objectID": "skills.html#dna-barcoding",
+    "href": "skills.html#dna-barcoding",
+    "title": "Skills",
+    "section": "DNA barcoding",
+    "text": "DNA barcoding\n\n\n\nGel electrophoresis showing successful amplification of the trnL, ITS1, and ITS2 loci for barcoding pollen samples (see Sponsler et al. 2020, Ecosphere."
+  },
+  {
+    "objectID": "skills.html#microscopy",
+    "href": "skills.html#microscopy",
+    "title": "Skills",
+    "section": "Microscopy",
+    "text": "Microscopy"
+  },
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
     "section": "",
-    "text": "A DAG depicting causal relations between floral resource abundance and pollinator abundance. A confounding fork structure is shown in red.\n\n\n\n\n\n\n\n\nPosterior predictive distributions of pollinator diversity across habitat based on a generalized (Poisson) hierarchical Bayesian linear regression model.\n\n\n\n\n\n\n\n\nA principal coordinates analysis with post-hoc variable mapping illustrates the relationship between bumble bee tongue length and floral preference. From Sponsler et al. (2022) Oikos."
+    "text": "Pollinator competition and the structure of floral resources\n\n\n\nThe floral resources of Philadelphia\n\n\n\nHoney bee foraging in Ohio’s landscapes"
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "Podcasts\n\nHoney bees and pesticides\nOregon State University, PolliNation Podcast\n\n\n\nArticles\n\nBees and urban ecology\nGrid Magazine"
+  },
+  {
+    "objectID": "media.html#honey-bees-and-pesticides",
+    "href": "media.html#honey-bees-and-pesticides",
+    "title": "Media",
+    "section": "Honey bees and pesticides",
+    "text": "Honey bees and pesticides\nOregon State University, PolliNation Podcast"
+  },
+  {
+    "objectID": "media.html#bees-and-urban-ecology",
+    "href": "media.html#bees-and-urban-ecology",
+    "title": "Media",
+    "section": "Bees and urban ecology",
+    "text": "Bees and urban ecology\nGrid Magazine"
   }
 ]

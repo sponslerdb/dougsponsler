@@ -4,6 +4,8 @@ about:
   template: marquee
 ---
 
+----------
+
 # Submitted
 
 **Sponsler DB**, Iverson A, Steffan-Dewenter I (2023) Pollinator competition and the structure of floral resources. *Ecography*.

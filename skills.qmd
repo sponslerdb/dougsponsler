@@ -4,28 +4,45 @@ about:
   template: marquee
 ---
 
-# Data science
+---------
 
-## Causal inference using directed acyclic graphs
-
-![A DAG depicting causal relations between floral resource abundance and pollinator abundance. A confounding fork structure is shown in red.](dag.png)
+# 1. Data science
 
 ## Bayesian modeling
 
+My approach to statistics is built upon rigorous Bayesian [workflow](https://psycnet.apa.org/record/2019-02665-002), implemented with [Stan](https://mc-stan.org/) and the R package [brms](https://cran.r-project.org/web/packages/brms/index.html).
+
 ![Posterior predictive distributions of pollinator diversity across habitat based on a generalized (Poisson) hierarchical Bayesian linear regression model.](bayes.png)
+
+
+## Causal inference using directed acyclic graphs
+
+A statistical model can only be as good as the causal model behind it. As a data analyst, I situate my statistical models within explicit causal frameworks expressed as a directed acyclic graphs (DAGs). This is especially important in observation field studies, where limited experimental control necessitates rigorous statistical control.  
+
+![A DAG depicting causal relations between floral resource abundance and pollinator abundance. A confounding fork structure is shown in red.](dag.png)
 
 ## Multivariate statistics
 
-![A principal coordinates analysis with post-hoc variable mapping illustrates the relationship between bumble bee tongue length and floral preference. From Sponsler et al. (2022) *Oikos*.](multivariate.png)
+![A principal coordinates analysis with post-hoc variable mapping illustrates the relationship between bumble bee tongue length and floral preference. From Sponsler et al. 2022, *Oikos*.](multivariate.png)
 
-# Geographic Information Systems
+## Geographic Information Systems (GIS)
 
 ![A map of my iNaturalist observations made by extracting the geographic coordinates of my observations and combining them with 3D imagery from Google Earth.](iNat_GE.png)
 
-# Field entomology and botany
+# 2. Field biology
+
+## Plant-pollinator interactions
 
 ![Sampling nectar from the flower of a plum tree to study floral resource depletion by pollinators.](nectar.jpg)
 
-# Beekeeping
+## Beekeeping
 
 ![Inspecting an especially gentle hive with my daughter](beekeeping.jpg)
+
+# 3. Laboratory biology
+
+## DNA barcoding
+![Gel electrophoresis showing successful amplification of the trnL, ITS1, and ITS2 loci for barcoding pollen samples (see Sponsler et al. 2020, *Ecosphere*.](barcoding.png)
+
+
+## Microscopy
