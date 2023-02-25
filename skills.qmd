@@ -1,0 +1,31 @@
+---
+title: "Research"
+about: 
+  template: marquee
+---
+
+# Statistics and causal inference
+
+## Causal inference using directed acyclic graphs
+
+![A DAG depicting causal relations between floral resource abundance and pollinator abundance. A confounding fork structure is shown in red.](dag.png)
+
+## Bayesian modeling
+
+![Posterior predictive distributions of pollinator diversity across habitat based on a generalized (Poisson) hierarchical Bayesian linear regression model.](bayes.png)
+
+## Multivariate statistics
+
+![A principal coordinates analysis with post-hoc variable mapping illustrates the relationship between bumble bee tongue length and floral preference. From Sponsler et al. (2022) *Oikos*.](multivariate.png)
+
+# Geographic Information Systems
+
+![A map of my iNaturalist observations made by extracting the geographic coordinates of my observations and combining them with 3D imagery from Google Earth.](iNat_GE.png)
+
+# Field entomology and botany
+
+![Sampling nectar from the flower of a plum tree to study floral resource depletion by pollinators.](nectar.jpg)
+
+# Beekeeping
+
+![Inspecting an especially gentle hive with my daughter](beekeeping.jpg)

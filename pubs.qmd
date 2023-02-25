@@ -6,13 +6,15 @@ about:
 
 # Submitted
 
-**Sponsler D**, Iverson A, Steffan-Dewenter I (2022) Pollinator competition and the structure of floral resources. *Authorea Preprints*.
+**Sponsler DB**, Iverson A, Steffan-Dewenter I (2023) Pollinator competition and the structure of floral resources. *Ecography*.
+
+Boetzl F, **Sponsler DB**, [...] Schirmel J (2023) Distance functions of carabid richness and density in crop fields depend on functional traits, crop type and adjacent habitat: a synthesis. *Nature Ecology and Evolution*.
 
 # 2022
 
-Quinlan GM, **Sponsler D**, Gaines-Day HR et al. (2022) Grassy–herbaceous land moderates regional climate effects on honey bee colonies in the Northcentral US. *Environmental Research Letters*, 17, 064036.
+Quinlan GM, **Sponsler DB**, Gaines-Day HR et al. (2022) Grassy–herbaceous land moderates regional climate effects on honey bee colonies in the Northcentral US. *Environmental Research Letters*, 17, 064036.
 
-**Sponsler D**, Kallnik K, Requier F et al. (2022a) Floral preferences of mountain bumble bees are constrained by functional traits but flexible through elevation and season. *Oikos*, 2022: e08902.
+**Sponsler DB**, Kallnik K, Requier F et al. (2022a) Floral preferences of mountain bumble bees are constrained by functional traits but flexible through elevation and season. *Oikos*, 2022: e08902.
 
 **Sponsler DB**, Requier F, Kallnik K et al. (2022b) Contrasting patterns of richness, abundance, and turnover in mountain bumble bees and their floral hosts. *Ecology*, 2022: e3712.
 
