@@ -10,7 +10,7 @@ website:
         text: Home
       #- about.qmd
       - research.qmd
-      - teaching.qmd
+      #- teaching.qmd
       - pubs.qmd
       - skills.qmd
       - media.qmd
