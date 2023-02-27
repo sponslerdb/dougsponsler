@@ -6,15 +6,36 @@ about:
 
 ----------
 
+# Recorded lectures
+
+## Pollinator competition and the structure of floral resources
+
+{{< video https://www.youtube.com/watch?v=4Qg7CIQZNBM&t=0s >}}
+
+
+## The floral resources of Philadelphia
+
+{{< video https://www.youtube.com/watch?v=JOr4rXKCRdo&t=0s >}}
+
+## Honey bee foraging in Ohio's landscapes
+
+{{< video https://www.youtube.com/watch?v=nukCD5MxwqE&t=0s >}}
+
 # Podcasts
 
-### Honey bees and pesticides
+[Nature's Hype Man](https://anchor.fm/wildlife-observer-network/episodes/Natures-Hype-Man--Honeybees-ef5q9b/a-a2dqo2j)
+
+[Urban Wildlife Podcast](https://www.urbanwildlifecast.com/squash-bees/)
+
+[Urban Wildlife Podcast](https://www.urbanwildlifecast.com/buzzing-hard-part-1/)
+
 [Oregon State University, PolliNation Podcast](https://extension.oregonstate.edu/podcast/pollination-podcast/31-doug-sponsler-risk-pesticides-honey-bees-ecotoxicology)
 
 
 # Articles
 
-### Bees and urban ecology
+[Philadelphia Orchard Project](https://www.phillyorchards.org/2019/09/04/expert-interview-qa-with-dr-douglas-sponsler-of-penn-state-universitys-center-for-pollinator-research/)
+
 [Grid Magazine](https://gridphilly.com/blog-home/2018/6/22/a-penn-state-researcher-learns-what-bees-can-teach-us-about-urban-ecology/)
 
 

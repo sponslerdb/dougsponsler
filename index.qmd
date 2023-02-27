@@ -1,5 +1,6 @@
 ---
 title: "Douglas B. Sponsler"
+subtitle: "Ecologist, Data Analyst, Writer"
 image: sponsler_headshot.jpg
 ---
 
